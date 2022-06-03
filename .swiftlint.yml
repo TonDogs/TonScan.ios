@@ -1,0 +1,19 @@
+reporter: xcode
+warning_threshold: 15
+
+excluded:
+- Pods
+- fastlane
+- vendor
+
+disabled_rules:
+  - line_length
+  - force_cast
+
+trailing_whitespace:
+ ignores_empty_lines: true
+ ignores_comments: true
+
+variable_name:
+  min_length:
+    warning: 1

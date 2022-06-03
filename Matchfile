@@ -1,0 +1,8 @@
+git_url("git@github.com:fiveze/spoki.certificates.git")
+
+storage_mode("git")
+
+type("development")
+
+app_identifier("com.tursunov.spoki")
+username("fiveze@gmail.com")

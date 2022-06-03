@@ -1,0 +1,59 @@
+// MARK: - Common
+
+commonOk = "ОК";
+commonCancel = "Отмена";
+commonLoadingFailedTitle = "Упс!";
+commonLoadingFailedSubtitle = "Что-то пошло не так. Попробуйте позже.";
+commonLoadingFailedAction = "Обновить";
+
+// MARK: - Feed
+
+feedTitle = "TON Scan";
+feedSearchPlaceholder = "Введите адрес TON";
+
+feedEmptyTitle = "Добавьте первый адрес!";
+feedEmptySubtitle = "Следите за избранными адресами в ленте.";
+feedEmptyAction = "Поиск";
+
+// MARK: - Search
+
+searchEmptyTitle = "Адрес не найден";
+searchEmptySubtitle = "Возможно, вы ввели неверный адрес.";
+
+// MARK: - Watch List
+
+watchListTitle = "Список наблюдения";
+
+// MARK: - Address
+
+addressAlias = "Алиас";
+addressSetAlias = "Установить алиас";
+addressSetAliasDescription = "Алиас позволяет создать короткое имя для адреса.";
+addressAddress = "Адрес";
+addressBalance = "Баланс";
+addressState = "Статус";
+addressActiveState = "• Активен";
+addressFrozenState = "• Заморожен";
+addressUninitializedState = "• Не инициализирован";
+addressContractType = "Тип контракта";
+addressUnknownContractType = "Неизвестен";
+addressFollow = "Подписаться";
+addressUnfollow = "Отписаться";
+
+// MARK: - Item
+
+itemSource = "Источник";
+itemDestination = "Назначение";
+itemValue = "Значение";
+itemMessage = "Сообщение";
+itemSender = "Отправитель";
+itemRecipient = "Получатель";
+itemTranscation = "Транзакция";
+itemFee = "Комиссия";
+
+// MARK: - Alert
+
+alert_push_title = "Разрешите доступ к уведомлениям";
+alert_push_message = "Перейдите в «Настройки» и разрешите доступ к уведомлениям";
+alert_open_settings_title = "Открыть настройки";
+alert_cancel_title = "Отмена";

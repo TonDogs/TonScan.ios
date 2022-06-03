@@ -1,0 +1,59 @@
+// MARK: - Common
+
+commonOk = "OK";
+commonCancel = "Cancel";
+commonLoadingFailedTitle = "Oops!";
+commonLoadingFailedSubtitle = "Something went wrong. Please try again later.";
+commonLoadingFailedAction = "Reload";
+
+// MARK: - Feed
+
+feedTitle = "TON Scan";
+feedSearchPlaceholder = "Enter TON address";
+
+feedEmptyTitle = "Let’s add first address!";
+feedEmptySubtitle = "Follow transactions of favourite addresses in Feed.";
+feedEmptyAction = "Search";
+
+// MARK: - Search
+
+searchEmptyTitle = "Address not found";
+searchEmptySubtitle = "You may have entered the wrong address.";
+
+// MARK: - Watch List
+
+watchListTitle = "Watch List";
+
+// MARK: - Address
+
+addressAlias = "Alias";
+addressSetAlias = "Set alias";
+addressSetAliasDescription = "An alias lets you create a short name for an address.";
+addressAddress = "Address";
+addressBalance = "Balance";
+addressState = "State";
+addressActiveState = "• Active";
+addressFrozenState = "• Frozen";
+addressUninitializedState = "• Uninitialized";
+addressContractType = "Contract Type";
+addressUnknownContractType = "Unknown";
+addressFollow = "Follow";
+addressUnfollow = "Unfollow";
+
+// MARK: - Item
+
+itemSource = "Source";
+itemDestination = "Destination";
+itemValue = "Value";
+itemMessage = "Message";
+itemSender = "Sender";
+itemRecipient = "Recipient";
+itemTranscation = "Transaction";
+itemFee = "Fee";
+
+// MARK: - Alert
+
+alert_push_title = "Allow access to notifications";
+alert_push_message = "To continue, you'll need to allow notifications access in settings";
+alert_open_settings_title = "Open settings";
+alert_cancel_title = "Cancel";
